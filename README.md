@@ -1,0 +1,2 @@
+# DOOM-game-reproduced-using-Python
+我的python课的大作业要求完成一个具有一定体量的内容不限的代码，由于我非常喜欢玩游戏，我简单学了一下pygame后就尝试着基于一个示例项目写一个比较有趣的游戏出来

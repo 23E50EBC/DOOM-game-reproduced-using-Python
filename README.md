@@ -5,4 +5,4 @@
 
 后面的bigWorks是根据时间顺序，逐步完善的游戏内容，完整的游戏介绍我制作了一个视频，见下面的链接：
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114521779802693&bvid=BV1teJczmERS&cid=30003036225&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+【为了交作业，用pygame写DOOM是什么样的？】 https://www.bilibili.com/video/BV1teJczmERS/?share_source=copy_web&vd_source=9270e3c57556357b482b36a3544c74dc
